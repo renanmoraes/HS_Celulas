@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minha Célula</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opções</string>
+    <string name="title_activity_mc__home">Minha Celula Ínicio</string>
+</resources>
